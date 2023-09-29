@@ -2,7 +2,7 @@
 
 1. **Microphone is required**
 ```ansi
-[2;34m[2;34m[0m[2;34mif we notice that you don't have have a microphone, you'll get a kick so you can fix this[0m
+[2;34mif we notice that you don't have have a microphone, you'll get a kick so you can fix this[0m
 ```
 
 2. **Radio Usage**
