@@ -89,3 +89,114 @@ at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
 Your character may only be allowed to survive and remember an injury which 
 incapacitated them if an actual player (typically EMS) physically transports 
 you to a hospital where you are treated and recover from you injuries
+
+
+
+
+
+
+
+
+11. **Combat Logging**
+Combat logging is prohibited and is defined as when a player exits their game to avoid an RP.
+> For example
+- Exiting to avoid being arrested, charged with a crime, or while being booked in jail.
+- Exiting to avoid getting robbed or kidnapped
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+12. **Leaving To Avoid Punishment**
+Leaving the server during a staff situation is not allowed. this will result into a ban.
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+3. **Greenzone**
+Green zones are safe areas. You may only conduct passive RP in green zones, no crime or aggressive/violent RP
+If someone runs into the green zone to avoid an RP scenario that was started outside of the greenzone may still continue.
+```ansi
+[2;32mList of Greenzones
+- The staff area, which is located in the FIB building.
+- The Tequi-la-la, here you can talk out of character (OOC)[0m
+```
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+
+14. **Cop Baiting***
+Cop baiting is prohibited, this is when your sole purpose is to attract the attention of the police with no gain to the development of your character.
+> For example
+- Doing burnouts outside the police station to attract the police officers
+- Purposely driving through an active scene and/or roadblocks
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+15. **Modding, Glitching, and Exploiting**
+
+-  Using external croshairs in-game is prohibited as it provides an unfair advantage.
+-  Usage or threatening to use injection tools, such as mod-menus, DOS/DDOS tools are prohibited.
+- Exploitation of known bugs to perform malicious acts. Exploiting a GTA feature/known bugs in scripts which would be result in eventual bans
+- Glitching or exploiting glitches to gain an unfair advantage. (Example: Using animations to enter an unenterable space location.)
+- If a glitch/exploit is found, please head to bugg-reports in this discord and report this to the development team.
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+
+
+
+
+
+
+
+16. **Clothing Emergency services**
+It is forbidden to put clothing on from the emergency services if you do not work for the emergency services
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+17. **Disrupting Events**
+It is forbidden to disrupt organized events. this will result in a ban.
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+18. **Disrespectul Behavior**
+You are and remain respectful towards staff at all times, a discussion is allowed but keep it neat. 
+You also respect certain limits towards other players, not everyone has the same amount of patience. so keep it fun for everyone.
+After all, it is not allowed to swear with diseases
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+19. **Recognizability**
+If a players wears a mask the can be recognized of the voice. If you want to be unrecognizable you must use a mask and voicechanger.
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
+20. **Requirements Robberies**
+```ansi
+[2;32mList of Possible robberys
+- Civilian Robberies: 2 Cops
+- Shop Robbery: 2 Cops
+- Citizen Hostage: 2 Cops
+- Gas Station Robbery: Minimal ? Cops and ? Hostages
+- Jewelery Robbery: Minimal ? Cops and ? Hostages
+- Cop Hostage: ? Cops
+- Train Heist: ? Cops
+- Pacific Bank Robbery: Minimal ? Cops and ? Hostages[0m
+```
+21. **Streamer/ Content Creaters**
+rules streams short summary
+
+22. **Reports in the city**
+Sometimes rule violations happen in the city. You can use /report for this in the city. Explain clearly what the problem is. Where possible also some video recordings.
+Do not overuse this command. this will result in an appropriate punishment.
+```ansi
+[2;34mIf we notice this there is a warning about this, 
+at the 3rd warning you have a day ban, with the 3rd ban you get a full ban![0m
+```
